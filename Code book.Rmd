@@ -46,4 +46,4 @@ std(): Standard deviation
 
 The complete list of variables of each feature vector is available in 'features.txt' in the "UCI HAR Dataset" folder
 
-The "tidy_data.txt" dataset was created by calculating the average of the "mean()" and "std()" variables for each grouping of subject and activity.
+The "tidy_data.txt" dataset was created by calculating the average of the "mean()" and "std()" variables for each grouping of "subject" and "activity" ("subject" is the participant's ID)
